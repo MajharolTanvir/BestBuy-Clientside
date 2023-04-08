@@ -5,7 +5,7 @@ import { CgProfile } from "react-icons/cg";
 
 const Header = () => {
   return (
-    <nav className="bg-primary">
+    <nav className="bg-primary sticky top-0">
       <div className="navbar container mx-auto">
         <div className="navbar-start">
           <div className="dropdown">

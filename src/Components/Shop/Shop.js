@@ -2,7 +2,7 @@ import React from 'react'
 
 const Shop = () => {
   return (
-    <div>Shop</div>
+    <section className='min-h-screen'>Shop</section>
   )
 }
 
